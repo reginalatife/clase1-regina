@@ -8,3 +8,7 @@ Mi primer dibujo en mi pagina-app
 El dibujo de un amigo en mi pagina 
 
 ![WhatsApp Image 2022-03-09 at 12 32 03 PM](https://user-images.githubusercontent.com/93101241/157475338-9c6b7a57-09df-4915-ba2a-bab20268d27c.jpeg)
+
+Dibujo de una compañera 
+
+![WhatsApp Image 2022-03-09 at 12 32 10 PM](https://user-images.githubusercontent.com/93101241/157475564-1b3168d7-a101-4f1f-9a82-c822441a2da2.jpeg)
